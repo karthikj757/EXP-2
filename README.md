@@ -17,7 +17,7 @@ Sl .no	Apparatus	Range	Type	Quantity
 Fuse rating calculation for field and armature:
 
 No load test
-
+ 
 10 % of rated current (full load current)
 
 Load test
