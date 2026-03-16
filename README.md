@@ -48,9 +48,9 @@ Procedure for Load test:
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
  CIRCUIT DIAGRAM:
-![bee 3](https://github.com/user-attachments/assets/010c0da8-c048-46e4-8c22-0a42d76276f8)
+![WhatsApp Image 2026-03-16 at 8 58 17 PM](https://github.com/user-attachments/assets/eec382d2-f7d6-4be2-9504-aa02ab8dca2d)
 
-![WhatsApp Image 2025-12-12 at 21 22 08_8d93023e](https://github.com/user-attachments/assets/2f201ca5-adb9-48f7-9c72-e53a80e3571f)
+![WhatsApp Image 2026-03-16 at 8 58 18 PM](https://github.com/user-attachments/assets/a19c438d-2363-4577-a4a6-4660f062cc72)
 
  
 Tabulation for Open Circuit Test
