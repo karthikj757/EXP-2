@@ -14,7 +14,7 @@ Sl .no	Apparatus	Range	Type	Quantity
 5	Rheostat		Wire wouned	1
 6	Connecting wires	-	-	As required
 
-Fuse rating calculation for field and armature:
+Fuse rating calculation for field and armature: 
 
 No load test
  
